@@ -23,3 +23,18 @@ body {
 .footer{
     background-image: url(3.jpg.jpg);
 }
+.pantun{
+    color:rgb(255, 255, 255);
+    font-family:fantasy;
+    text-align: center;
+}
+.title{
+    color: white;
+    font-family: impact;
+    font-size: 60px;
+}
+.ff{
+    color: white;
+    text-align: center;
+    font-family: fantasy;
+}
